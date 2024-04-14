@@ -1,9 +1,8 @@
-import Navbar1 from "./components/Navbar";
-
+import Navbarori from "./components/Navbarori";
 function App() {
   return (
    <div>
-    <Navbar1/>
+    <Navbarori/>
    </div>
   );
 }

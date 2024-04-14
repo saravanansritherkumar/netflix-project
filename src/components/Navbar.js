@@ -21,22 +21,7 @@ const Navbar = () => {
 
 
         <ul id='browse'>
-          <div class="dropdown">
-          <li class="dropdown-toggle" data-toggle="dropdown">Browse
-          <span class="caret"></span></li>
-          <ul class="dropdown-menu">
-            {/* <hr color='white'/> */}
-               <center>
-               {/* <span><i class="fa-solid fa-caret-down"></i></span> */}
-                <li>Home</li>
-                <li>TV shows</li>
-                <li>Movies</li>
-                <li>New & Popular</li>
-                <li>My List</li>
-                <li>Browse by Languages</li>
-                </center>
-          </ul>
-         </div>
+          
         </ul>
 
       
